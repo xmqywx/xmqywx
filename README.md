@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <br />
 
-[![Kris's github stats](https://github-readme-stats.vercel.app/api?username=xmqywx&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/xmqywx)
+[![Kris's github stats](https://github-readme-stats.vercel.app/api?username=xmqywx&show_icons=true&count_private=true)](https://github.com/xmqywx)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xmqywx&layout=compact&count_private=true&include_all_commits=true)](https://github.com/xmqywx)
 

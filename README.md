@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 ![age](https://img.shields.io/badge/age-30-blue)
 ![focus](https://img.shields.io/badge/focus-frontend-brightgreen)
 ![living](https://img.shields.io/badge/living-qingdao-3c9)
-![visitors](https://windard-visitor-badge.glitch.me/badge?page_id=xmqywx.github.profile)
 
 <br />
 

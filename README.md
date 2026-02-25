@@ -55,22 +55,20 @@ Building next-generation cryptocurrency trading platforms.
 
 ---
 
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=xmqywx&theme=tokyonight&no-frame=true&column=7&margin-w=10" />
-</div>
-
----
-
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=xmqywx&theme=tokyonight&hide_border=true" />
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xmqywx&theme=tokyo-night&hide_border=true&area=true" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xmqywx/xmqywx/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xmqywx/xmqywx/output/github-snake.svg" />
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/xmqywx/xmqywx/output/github-snake-dark.svg" />
+  </picture>
 </div>
 
 ---

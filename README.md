@@ -2,9 +2,9 @@
 
 # Hey, I'm Kris 🧑‍💻
 
-**Frontend Developer · Qingdao, China**
+**Full-Stack Developer · Crypto & Web3 Builder**
 
-Building things for the web with passion and precision.
+Building next-generation cryptocurrency trading platforms.
 
 [![GitHub followers](https://img.shields.io/github/followers/xmqywx?style=flat&logo=github&label=Followers)](https://github.com/xmqywx)
 [![Profile Views](https://komarev.com/ghpvc/?username=xmqywx&color=blueviolet&style=flat&label=Profile+Views)](https://github.com/xmqywx)
@@ -15,11 +15,11 @@ Building things for the web with passion and precision.
 
 ### 🧭 About Me
 
-- 🔭 Frontend developer with years of hands-on experience
-- 🏠 Based in **Qingdao** 🌊
-- 💼 Working on crypto & fintech products
-- 🎯 Currently focused on **Web3** and **trading platforms**
-- ⚡ 2,100+ contributions in the past year
+- 🔭 Full-stack developer specializing in **cryptocurrency exchange** and **trading platforms**
+- 📈 Building real-time trading systems, order books, K-line charts, and DeFi applications
+- 💰 Experienced in integrating **blockchain APIs**, **payment gateways**, and **wallet systems**
+- 🌏 Based in **Australia** 🇦🇺
+- ⚡ **2,100+** contributions in the past year — shipping code every day
 
 ---
 
@@ -39,12 +39,19 @@ Building things for the web with passion and precision.
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
+**Crypto & Trading**
+
+![Web3.js](https://img.shields.io/badge/-Web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white)
+![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
+![Bitcoin](https://img.shields.io/badge/-Bitcoin-FF9900?style=flat-square&logo=bitcoin&logoColor=white)
+![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+
 **Tools & Platforms**
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![WebSocket](https://img.shields.io/badge/-WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white)
 
 ---
 
@@ -69,20 +76,9 @@ Building things for the web with passion and precision.
 
 ---
 
-### 🔥 Featured Projects
-
 <div align="center">
 
-[![fabricjs-controls](https://github-readme-stats.vercel.app/api/pin/?username=pixolith&repo=fabricjs-customise-controls-extension&theme=tokyonight&hide_border=true)](https://github.com/pixolith/fabricjs-customise-controls-extension)
-[![ZukBoard](https://github-readme-stats.vercel.app/api/pin/?username=Zukdoor&repo=ZukBoard&theme=tokyonight&hide_border=true)](https://github.com/Zukdoor/ZukBoard)
-
-</div>
-
----
-
-<div align="center">
-
-**💬 Feel free to reach out if you want to collaborate on Web3 or frontend projects!**
+**💬 Open to collaboration on crypto exchanges, DeFi protocols, and Web3 projects!**
 
 ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
